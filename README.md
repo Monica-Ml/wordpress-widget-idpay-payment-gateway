@@ -1,6 +1,6 @@
 # Idpay payment gateway
 
-Payment gateway for iranian website
+Payment gateway for Iranian website
 
 ## How to install:
 

@@ -1,7 +1,5 @@
 <?php
 /**
- * Created by hamid
- * User: k.o
  * Date: 02/01/2019
  * Time: 00:20
  */

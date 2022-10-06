@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: idpay
- * Plugin URI: www.arn.com
- * Description: Arani IDPay Panel Framework
+ * Plugin URI: -
+ * Description: -
  * Version: 1.0
- * Author: hamid arani
- * Author URI: www.h-arn.com
+ * Author: -
+ * Author URI: -
  * License: GPLv2 or later
  */
 

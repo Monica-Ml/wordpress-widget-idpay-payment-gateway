@@ -2,7 +2,7 @@
 
 Payment gateway for Iranian website
 
-![MySQL](https://img.shields.io/static/v1?label=%3CMySQL%3E&message=%3CDatabase%3E&color=red)
+![MySQL](https://img.shields.io/static/v1?label=MySQL&message=Database&color=red)
 
 
 ## How to install:

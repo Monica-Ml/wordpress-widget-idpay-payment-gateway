@@ -2,7 +2,8 @@
 
 Payment gateway for Iranian website
 
-![MySQL](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![MySQL](https://img.shields.io/static/v1?label=%3CMySQL%3E&Database=%3CMESSAGE%3E&color=%3CCOLOR%3E)
+
 
 ## How to install:
 
@@ -11,6 +12,8 @@ Payment gateway for Iranian website
 ## Description
 
 You can download idpay payment gateway at https://idpay.ir/
+
+---
 
 ## Questions
 
